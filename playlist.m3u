@@ -1,19 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://i.imgur.com/TLb9kQE.png" group-title="Kids",Amou Yazid TV
-http://numide.servemp3.com:8089/hls/ay1.m3u8
-#EXTINF:-1 tvg-id="CNA.dz" tvg-logo="https://i.imgur.com/MbGX0ST.png" group-title="Religious",CNA
-https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-logo="https://i.imgur.com/TNtjYcw.png" group-title="News",Echorouk News
-https://bledflix-echorouk-news.b-cdn.net/master.m3u8
-#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://i.imgur.com/FtrSAqu.png" group-title="General",Echorouk TV
-#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
-#EXTINF:-1 tvg-id="ElBilad.dz" tvg-logo="https://i.imgur.com/khppaWF.png" group-title="",El Bilad
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/elbilad.m3u8
-#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-logo="https://i.imgur.com/C0TCA1s.png" group-title="News",Ennahar TV
-#EXTVLCOPT:http-referrer=https://ennahar.dzsecurity.net
-https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
-#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="Cooking",Samira TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8
-#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="",TV2
-https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,beIN SPORTS MAX 1 4K
+http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHUuZKmRhf5QtsUQvu3w_OHg/ts
+
+#EXTINF:-1,beIN SPORTS MAX 2 4K
+http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHd1uGmRdjtsR3bq2hR7r8us/ts
+
+#EXTINF:-1,beIN SPORTS MAX 1 HD
+http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHTRodZTVfUFI6aYYLGWGpD8/ts
+
+#EXTINF:-1,beIN SPORTS MAX 2 HD
+http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHf3rCLW7uFSJ8n3_2qIDwFE/ts
+
+#EXTINF:-1,beIN SPORTS MAX 1 SD
+http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHWv1H8V8YzZltNR2LX8C3xk/ts
+
+#EXTINF:-1,beIN SPORTS MAX 2 SD
+http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHafoFLm27-9odKu2xSet5oo/ts
+
+#EXTINF:-1,Sky SPORTS Calcio 4K
+http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHWitZzwjMg16fPcVb6l8umE/ts
