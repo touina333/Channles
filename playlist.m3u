@@ -1,22 +1,174 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1,beIN SPORTS MAX 1 4K
-http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHUuZKmRhf5QtsUQvu3w_OHg/ts
-
-#EXTINF:-1,beIN SPORTS MAX 2 4K
-http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHd1uGmRdjtsR3bq2hR7r8us/ts
-
-#EXTINF:-1,beIN SPORTS MAX 1 HD
-http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHTRodZTVfUFI6aYYLGWGpD8/ts
-
-#EXTINF:-1,beIN SPORTS MAX 2 HD
-http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHf3rCLW7uFSJ8n3_2qIDwFE/ts
-
-#EXTINF:-1,beIN SPORTS MAX 1 SD
-http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHWv1H8V8YzZltNR2LX8C3xk/ts
-
-#EXTINF:-1,beIN SPORTS MAX 2 SD
-http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHafoFLm27-9odKu2xSet5oo/ts
-
-#EXTINF:-1,Sky SPORTS Calcio 4K
-http://141.136.35.46:80/play/RwWSHq9Qs-8qaepsr66oHWitZzwjMg16fPcVb6l8umE/ts
+#EXTINF:0 CUID="155" tvg-name="beIN Sports MAX 1 HEVC" tvg-logo="http://3.bp.blogspot.com/-REMxNLBodyA/UXxYmm-wUAI/AAAAAAAAHHQ/HcYdNmocMRc/s1600/image+logo+BeIN+Sport+Max+Astra+channel+tv.png.jpg" group-title="beIN Sports MAX",beIN Sports MAX 1 HEVC
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1458
+#EXTINF:0 CUID="156" tvg-name="beIN Sports MAX 2 HEVC" tvg-logo="http://3.bp.blogspot.com/-REMxNLBodyA/UXxYmm-wUAI/AAAAAAAAHHQ/HcYdNmocMRc/s1600/image+logo+BeIN+Sport+Max+Astra+channel+tv.png.jpg" group-title="beIN Sports MAX",beIN Sports MAX 2 HEVC
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1459
+#EXTINF:0 CUID="157" tvg-name="beIN Sports MAX 1 HD" tvg-logo="http://3.bp.blogspot.com/-REMxNLBodyA/UXxYmm-wUAI/AAAAAAAAHHQ/HcYdNmocMRc/s1600/image+logo+BeIN+Sport+Max+Astra+channel+tv.png.jpg" group-title="beIN Sports MAX",beIN Sports MAX 1 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1460
+#EXTINF:0 CUID="158" tvg-name="beIN Sports MAX 1 SD" tvg-logo="http://3.bp.blogspot.com/-REMxNLBodyA/UXxYmm-wUAI/AAAAAAAAHHQ/HcYdNmocMRc/s1600/image+logo+BeIN+Sport+Max+Astra+channel+tv.png.jpg" group-title="beIN Sports MAX",beIN Sports MAX 1 SD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1462
+#EXTINF:0 CUID="159" tvg-name="beIN Sports MAX 2 SD" tvg-logo="http://3.bp.blogspot.com/-REMxNLBodyA/UXxYmm-wUAI/AAAAAAAAHHQ/HcYdNmocMRc/s1600/image+logo+BeIN+Sport+Max+Astra+channel+tv.png.jpg" group-title="beIN Sports MAX",beIN Sports MAX 2 SD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1463
+#EXTINF:0 CUID="160" tvg-name="beIN Sports MAX 2 HD" tvg-logo="http://3.bp.blogspot.com/-REMxNLBodyA/UXxYmm-wUAI/AAAAAAAAHHQ/HcYdNmocMRc/s1600/image+logo+BeIN+Sport+Max+Astra+channel+tv.png.jpg" group-title="beIN Sports MAX",beIN Sports MAX 2 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1461
+#EXTINF:0 CUID="1" tvg-name="beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="beIN Sports  بي ان سبورت",beIN Sports 1
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/877
+#EXTINF:0 CUID="2" tvg-name="beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png" group-title="beIN Sports  بي ان سبورت",beIN Sports 2
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/878
+#EXTINF:0 CUID="3" tvg-name="beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png" group-title="beIN Sports  بي ان سبورت",beIN Sports 3
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/879
+#EXTINF:0 CUID="4" tvg-name="BeIN Sports 7 HD" group-title="beIN Sports  بي ان سبورت",BeIN Sports 7 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/884
+#EXTINF:0 CUID="14" tvg-name="https://t.me/mo3adnew قناتنا الجديدة على التلجرام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN Sports  بي ان سبورت",https://t.me/mo3adnew قناتنا الجديدة على التلجرام
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/405
+#EXTINF:0 CUID="15" tvg-name="beIN 2 Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN Sports  بي ان سبورت",beIN 2 Premium HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/406
+#EXTINF:0 CUID="16" tvg-name="beIN 3 Premium FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN Sports  بي ان سبورت",beIN 3 Premium FHD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/407
+#EXTINF:0 CUID="17" tvg-name="beIN 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN Sports  بي ان سبورت",beIN 4 FHD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/408
+#EXTINF:0 CUID="18" tvg-name="beIN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN Sports  بي ان سبورت",beIN 5 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/409
+#EXTINF:0 CUID="19" tvg-name="beIN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN Sports  بي ان سبورت",beIN 6 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/410
+#EXTINF:0 CUID="5" tvg-name="SSC 1 HD" group-title="SSC قنوات اس اس سي",SSC 1 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/733
+#EXTINF:0 CUID="6" tvg-name="SSC 2 HD" group-title="SSC قنوات اس اس سي",SSC 2 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/734
+#EXTINF:0 CUID="7" tvg-name="SSC 3 HD" group-title="SSC قنوات اس اس سي",SSC 3 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/735
+#EXTINF:0 CUID="8" tvg-name="SSC 5 HD" group-title="SSC قنوات اس اس سي",SSC 5 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/737
+#EXTINF:0 CUID="9" tvg-name="beIN 4 HD" group-title="SSC قنوات اس اس سي",beIN 4 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/732
+#EXTINF:0 CUID="10" tvg-name="SSC-EXTRA 1 HD" group-title="SSC قنوات اس اس سي",SSC-EXTRA 1 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/882
+#EXTINF:0 CUID="11" tvg-name="SSC-EXTRA 2 HD" group-title="SSC قنوات اس اس سي",SSC-EXTRA 2 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/883
+#EXTINF:0 CUID="12" tvg-name="AD | SPORT PREMIUM 1 HD" group-title="StarzPlay SPORTS",AD | SPORT PREMIUM 1 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/880
+#EXTINF:0 CUID="13" tvg-name="AD | SPORT PREMIUM 2 HD" group-title="StarzPlay SPORTS",AD | SPORT PREMIUM 2 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/881
+#EXTINF:0 CUID="161" tvg-name="2M Monde" tvg-logo="https://i.imgur.com/UjtrAgV.png" group-title="Arabic Channels قنوات عربية",2M Monde
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/411
+#EXTINF:0 CUID="162" tvg-name="AL AOULA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png" group-title="Arabic Channels قنوات عربية",AL AOULA HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/412
+#EXTINF:0 CUID="163" tvg-name="Al Aoula International (360p)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_1_tvm_eu.png" group-title="Arabic Channels قنوات عربية",Al Aoula International (360p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/441
+#EXTINF:0 CUID="164" tvg-name="Al Aqsa Channel" tvg-logo="https://i.imgur.com/tk16x6O.png" group-title="Arabic Channels قنوات عربية",Al Aqsa Channel
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/442
+#EXTINF:0 CUID="165" tvg-name="Al Arabiya (1080p)" tvg-logo="https://i.imgur.com/w6PhITD.png" group-title="Arabic Channels قنوات عربية",Al Arabiya (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/443
+#EXTINF:0 CUID="166" tvg-name="Al Arabiya Al Hadath " tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="Arabic Channels قنوات عربية",Al Arabiya Al Hadath 
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/444
+#EXTINF:0 CUID="167" tvg-name="Al Ekhbariya (1080p)" tvg-logo="https://i.imgur.com/NciF5rO.png" group-title="Arabic Channels قنوات عربية",Al Ekhbariya (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/445
+#EXTINF:0 CUID="168" tvg-name="Al Hurra (720p)" tvg-logo="https://i.imgur.com/9r7Hydw.png" group-title="Arabic Channels قنوات عربية",Al Hurra (720p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/449
+#EXTINF:0 CUID="169" tvg-name="Al Iraqia" tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="Arabic Channels قنوات عربية",Al Iraqia
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/450
+#EXTINF:0 CUID="170" tvg-name="Al Iraqia News" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="Arabic Channels قنوات عربية",Al Iraqia News
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/451
+#EXTINF:0 CUID="171" tvg-name="Al Iraqia Sport" tvg-logo="https://i.imgur.com/3lGhShE.png" group-title="Arabic Channels قنوات عربية",Al Iraqia Sport
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/452
+#EXTINF:0 CUID="172" tvg-name="Al Jazeera Arabic (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/512px-Aljazeera.svg.png" group-title="Arabic Channels قنوات عربية",Al Jazeera Arabic (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/455
+#EXTINF:0 CUID="173" tvg-name="Al Jazeera Balkans (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png" group-title="Arabic Channels قنوات عربية",Al Jazeera Balkans (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/456
+#EXTINF:0 CUID="174" tvg-name="Al Jazeera Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="Arabic Channels قنوات عربية",Al Jazeera Documentary
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/457
+#EXTINF:0 CUID="175" tvg-name="Al Jazeera Mubasher (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="Arabic Channels قنوات عربية",Al Jazeera Mubasher (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/458
+#EXTINF:0 CUID="176" tvg-name="Al Khalij (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Knd2lAQ.png" group-title="Arabic Channels قنوات عربية",Al Khalij (720p) [Not 24/7]
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/459
+#EXTINF:0 CUID="177" tvg-name="Al Maghribia (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png" group-title="Arabic Channels قنوات عربية",Al Maghribia (360p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/461
+#EXTINF:0 CUID="178" tvg-name="Al Mamlaka TV (1080p)" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="Arabic Channels قنوات عربية",Al Mamlaka TV (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/462
+#EXTINF:0 CUID="179" tvg-name="Al Mayadeen (576p)" tvg-logo="https://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="Arabic Channels قنوات عربية",Al Mayadeen (576p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/466
+#EXTINF:0 CUID="180" tvg-name="Al Quran Al Kareem TV (Mecca)" tvg-logo="https://i.imgur.com/0aMNwQa.png" group-title="Arabic Channels قنوات عربية",Al Quran Al Kareem TV (Mecca)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/468
+#EXTINF:0 CUID="181" tvg-name="Al Rasheed (408p)7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Al_Rasheed_TV_logo.png" group-title="Arabic Channels قنوات عربية",Al Rasheed (408p)7]
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/470
+#EXTINF:0 CUID="182" tvg-name="Al Saudiya (1080p)" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="Arabic Channels قنوات عربية",Al Saudiya (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/474
+#EXTINF:0 CUID="183" tvg-name="Al Sharqiya (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Al_Sharqiya.png/512px-Al_Sharqiya.png" group-title="Arabic Channels قنوات عربية",Al Sharqiya (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/475
+#EXTINF:0 CUID="184" tvg-name="Al Sharqiya News (1080p)" tvg-logo="https://i.imgur.com/WzchHvc.png" group-title="Arabic Channels قنوات عربية",Al Sharqiya News (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/477
+#EXTINF:0 CUID="185" tvg-name="Al Sunnah Al Nabawiyah TV (Medina) (720p)" tvg-logo="https://i.imgur.com/84nqj99.png" group-title="Arabic Channels قنوات عربية",Al Sunnah Al Nabawiyah TV (Medina) (720p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/478
+#EXTINF:0 CUID="186" tvg-name="Al Wousta TV (1080p)" tvg-logo="https://content.osn.com/logo/channel/cropped/WAD.png" group-title="Arabic Channels قنوات عربية",Al Wousta TV (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/480
+#EXTINF:0 CUID="187" tvg-name="Al Yaum TV (720p)" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="Arabic Channels قنوات عربية",Al Yaum TV (720p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/481
+#EXTINF:0 CUID="188" tvg-name="Alerth Alnabawi (576p)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Arabic Channels قنوات عربية",Alerth Alnabawi (576p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/489
+#EXTINF:0 CUID="189" tvg-name="Alghad Almushreq (576p)" tvg-logo="https://i.imgur.com/WGQsAF2.png" group-title="Arabic Channels قنوات عربية",Alghad Almushreq (576p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/494
+#EXTINF:0 CUID="190" tvg-name="Alhaqeqa Aldawlia (1080p)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_haqeeqah_al_dawliyah.png" group-title="Arabic Channels قنوات عربية",Alhaqeqa Aldawlia (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/496
+#EXTINF:0 CUID="191" tvg-name="Alyaman Shabab (1080p) " tvg-logo="https://i.imgur.com/Vmbi6h4.png" group-title="Arabic Channels قنوات عربية",Alyaman Shabab (1080p) 
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/511
+#EXTINF:0 CUID="192" tvg-name="Amman TV (720p)" tvg-logo="https://i.imgur.com/vkqYIO4.jpg" group-title="Arabic Channels قنوات عربية",Amman TV (720p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/512
+#EXTINF:0 CUID="193" tvg-name="Asharq (1080p)" tvg-logo="https://asharq.com/asharq-preview-logo.png" group-title="Arabic Channels قنوات عربية",Asharq (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/516
+#EXTINF:0 CUID="194" tvg-name="Audeh (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="Arabic Channels قنوات عربية",Audeh (480p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/522
+#EXTINF:0 CUID="195" tvg-name="Ayaat (720p)" tvg-logo="https://ayaat.com.sa/wp-content/uploads/2018/04/new-logo1.png" group-title="Arabic Channels قنوات عربية",Ayaat (720p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/523
+#EXTINF:0 CUID="196" tvg-name="Bahrain International (720p)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png" group-title="Arabic Channels قنوات عربية",Bahrain International (720p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/524
+#EXTINF:0 CUID="197" tvg-name="Bahrain Sports 1" tvg-logo="https://i.imgur.com/pQ0QGGl.jpg" group-title="Arabic Channels قنوات عربية",Bahrain Sports 1
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/525
+#EXTINF:0 CUID="198" tvg-name="Bahrain Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sports-1-bh.png" group-title="Arabic Channels قنوات عربية",Bahrain Sports 2
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/526
+#EXTINF:0 CUID="199" tvg-name="Bahrain TV" tvg-logo="https://i.imgur.com/LTD0jIm.png" group-title="Arabic Channels قنوات عربية",Bahrain TV
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/527
+#EXTINF:0 CUID="200" tvg-name="BBC Arabic (720p)" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="Arabic Channels قنوات عربية",BBC Arabic (720p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/528
+#EXTINF:0 CUID="201" tvg-name="Cartoon Network Arabia " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" group-title="Arabic Channels قنوات عربية",Cartoon Network Arabia 
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/532
+#EXTINF:0 CUID="202" tvg-name="CGTN Arabic (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/CGTN_arabic.png/512px-CGTN_arabic.png" group-title="Arabic Channels قنوات عربية",CGTN Arabic (576p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/533
+#EXTINF:0 CUID="203" tvg-name="DW Arabic (1080p)" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Arabic Channels قنوات عربية",DW Arabic (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/548
+#EXTINF:0 CUID="204" tvg-name="Elsharq TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/El_Sharq_New_Logo.png/512px-El_Sharq_New_Logo.png" group-title="Arabic Channels قنوات عربية",Elsharq TV 
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/559
+#EXTINF:0 CUID="205" tvg-name="France 24 Arabic (720p)" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Arabic Channels قنوات عربية",France 24 Arabic (720p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/565
+#EXTINF:0 CUID="206" tvg-name="Gulli Bil Arabi (1080p)" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png" group-title="Arabic Channels قنوات عربية",Gulli Bil Arabi (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/567
+#EXTINF:0 CUID="207" tvg-name="Hala TV (576p) [" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="Arabic Channels قنوات عربية",Hala TV (576p) [
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/571
+#EXTINF:0 CUID="208" tvg-name="Halab Today TV (480p) [" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png" group-title="Arabic Channels قنوات عربية",Halab Today TV (480p) [
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/572
+#EXTINF:0 CUID="209" tvg-name="Iqraa (576p) [Not 24/7]" tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="Arabic Channels قنوات عربية",Iqraa (576p) [Not 24/7]
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/577
+#EXTINF:0 CUID="210" tvg-name="JAWHARA TV (720p)" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="Arabic Channels قنوات عربية",JAWHARA TV (720p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/581
+#EXTINF:0 CUID="211" tvg-name="Jeddah Radio (720p)" tvg-logo="https://aloula.faulio.com/storage/mediagallery/81/4a/small_eccd6d8fce2cc3f33ac026e448cc675832522de4.png" group-title="Arabic Channels قنوات عربية",Jeddah Radio (720p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/582
+#EXTINF:0 CUID="212" tvg-name="Kaif TV (576p) " tvg-logo="https://i.imgur.com/q2qHUKF.png" group-title="Arabic Channels قنوات عربية",Kaif TV (576p) 
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/585
+#EXTINF:0 CUID="213" tvg-name="KSA Sports 3 (1080p) " tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-3-sa.png" group-title="Arabic Channels قنوات عربية",KSA Sports 3 (1080p) 
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/589
+#EXTINF:0 CUID="214" tvg-name="Majid TV (1080p)" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Arabic Channels قنوات عربية",Majid TV (1080p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/601
+#EXTINF:0 CUID="215" tvg-name="Makkah TV (576p)" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Arabic Channels قنوات عربية",Makkah TV (576p)
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/602
+#EXTINF:0 CUID="216" tvg-name="Medi 1 TV Maghreb " tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="Arabic Channels قنوات عربية",Medi 1 TV Maghreb 
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/622
+#EXTINF:0 CUID="217" tvg-name="Mekameleen TV " tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="Arabic Channels قنوات عربية",Mekameleen TV 
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/623
+#EXTINF:0 CUID="218" tvg-name="Nabaa TV " tvg-logo="https://i.imgur.com/rXyCQGY.png" group-title="Arabic Channels قنوات عربية",Nabaa TV 
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/634
+#EXTINF:0 CUID="219" tvg-name="Nablus TV " tvg-logo="https://www.nablustv.net/images/web_16.png" group-title="Arabic Channels قنوات عربية",Nablus TV 
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/635
+#EXTINF:0 CUID="220" tvg-name="National Geographic Abu Dhabi " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/512px-Nat_geo_channel_abu_dhabi.png" group-title="Arabic Channels قنوات عربية",National Geographic Abu Dhabi 
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/636
+#EXTINF:0 CUID="221" tvg-name="Nidae AlIslam Radio " tvg-logo="https://aloula.faulio.com/storage/mediagallery/67/08/small_45dbc219fb4a7ce2c621bcdbd75b3c56164dd6ee.png" group-title="Arabic Channels قنوات عربية",Nidae AlIslam Radio 
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/637
+#EXTINF:0 CUID="222" tvg-name="Noor Dubai (576p)" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="Arabic Channels قنوات
