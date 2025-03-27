@@ -1,5 +1,5 @@
 #EXTINF:-1  group-title="Sports",ssc_news
- http://www.ipslow.com/tv/canal.php?id=ssc_news
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1  group-title="Sports",ssc1 
 http://www.ipslow.com/tv/canal.php?id=ssc1
 #EXTINF:-1  group-title="Sports",ssc2
