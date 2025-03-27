@@ -1,7 +1,7 @@
 #EXTINF:-1  group-title="Sports",ssc_news
- https://www.ipslow.com/tv/canal.php?id=ssc_news
+ http://www.ipslow.com/tv/canal.php?id=ssc_news
 #EXTINF:-1  group-title="Sports",ssc1 
-https://www.ipslow.com/tv/canal.php?id=ssc1
+http://www.ipslow.com/tv/canal.php?id=ssc1
 #EXTINF:-1  group-title="Sports",ssc2
 https://www.ipslow.com/tv/canal.php?id=ssc2
 #EXTINF:-1  group-title="Sports",ssc3 
@@ -18,7 +18,7 @@ https://www.ipslow.com/tv/canal.php?id=ssc_extra2
 https://www.ipslow.com/tv/canal.php?id=ssc_extra3
 
 #EXTINF:-1  group-title="Sports",Alkass sport 1
-https://www.elahmad.com/tv/alkass_hd.php?id=one
+http://www.elahmad.com/tv/alkass_hd.php?id=one
 #EXTINF:-1  group-title="Sports",Alkass sport 2
 https://www.elahmad.com/tv/alkass_hd.php?id=2
 #EXTINF:-1  group-title="Sports",Alkass sport 3
