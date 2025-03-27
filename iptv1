@@ -1,3 +1,42 @@
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_news.jpg" group-title="Sports",ssc_news
+ https://www.ipslow.com/tv/canal.php?id=ssc_news
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc1.jpg" group-title="Sports",ssc1 
+https://www.ipslow.com/tv/canal.php?id=ssc1
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc2.jpg" group-title="Sports",ssc2
+https://www.ipslow.com/tv/canal.php?id=ssc2
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc3.jpg" group-title="Sports",ssc3 
+https://www.ipslow.com/tv/canal.php?id=ssc3
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc4.jpg" group-title="Sports",ssc4 
+https://www.ipslow.com/tv/canal.php?id=ssc4
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc5.jpg" group-title="Sports",ssc5
+https://www.ipslow.com/tv/canal.php?id=ssc_5
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra1.jpg" group-title="Sports",ssc_extra1
+https://www.ipslow.com/tv/canal.php?id=ssc_extra1
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra2.jpg" group-title="Sports",ssc_extra2
+https://www.ipslow.com/tv/canal.php?id=ssc_extra2
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra3.jpg" group-title="Sports",ssc_extra3
+https://www.ipslow.com/tv/canal.php?id=ssc_extra3
+#EXTINF:-1 group-title="Sports",ssc_news
+
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_1.jpg" group-title="Sports",Alkass sport 1
+https://www.elahmad.com/tv/alkass_hd.php?id=one
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_2.jpg" group-title="Sports",Alkass sport 2
+https://www.elahmad.com/tv/alkass_hd.php?id=2
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_3.jpg" group-title="Sports",Alkass sport 3
+https://www.elahmad.com/tv/alkass_hd.php?id=3
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_4.jpg" group-title="Sports",Alkass sport 4
+https://www.elahmad.com/tv/alkass_hd.php?id=4
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_5.jpg" group-title="Sports",Alkass sport 5
+https://www.elahmad.com/tv/alkass_hd.php?id=5
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_6.jpg" group-title="Sports",Alkass sport 6
+https://www.elahmad.com/tv/alkass_hd.php?id=6
+
+#EXTINF:-1 tvg-logo="https://tlfaz.com/wp-content/uploads/2024/07/bein-sports-1-300x300.png" group-title="Sports",Bein Sports 1
+https://player.tlfaz.com/embed/bein-sports-1
+#EXTINF:-1 tvg-logo="https://tlfaz.com/wp-content/uploads/2024/07/bein-sports-2-300x300.png" group-title="Sports",Bein Sports 2
+https://player.tlfaz.com/embed/bein-sports-2
+#EXTINF:-1 tvg-logo="https://tlfaz.com/wp-content/uploads/2024/07/bein-sports-5-300x300.png" group-title="Sports",Bein Sports 5
+https://player.tlfaz.com/embed/bein-sports-5
 #EXTINF:-1 group-title="Sports",Bein Sports 1
 https://www.aflam4youtv.com/zremb472.php?vid=68&aflam_s=1&aflam_w=5675&aflam_h=556755&aflam_k=1h311333
 #EXTINF:-1 group-title="Sports",Bein Sports 2
