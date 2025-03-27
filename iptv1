@@ -1,4 +1,11 @@
-#EXTM3U
+#EXTINF:-1 group-title="Sports",Bein Sports 1
+https://www.aflam4youtv.com/zremb472.php?vid=68&aflam_s=1&aflam_w=5675&aflam_h=556755&aflam_k=1h311333
+#EXTINF:-1 group-title="Sports",Bein Sports 2
+https://www.aflam4youtv.com/zremb472.php?vid=2&aflam_s=1&aflam_w=5675&aflam_h=556755&aflam_k=1h311333
+#EXTINF:-1 group-title="Sports",Bein Sports 3
+https://www.aflam4youtv.com/zremb472.php?vid=1&aflam_s=1&aflam_w=5675&aflam_h=556755&aflam_k=1h311333
+#EXTINF:-1 group-title="Sports",Bein Sports 4
+https://www.aflam4youtv.com/zremb472.php?vid=3&aflam_s=1&aflam_w=5675&aflam_h=556755&aflam_k=1h311333
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://alaimma.tv
 http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
 #EXTINF:-1 group-title="Undefined",Abdulmajeed Abdullah (1080p)
