@@ -1,12 +1,12 @@
-#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=7" , MBC1  group-title="mbc"
+#EXTINF:-1 tvg-id="MBC 1" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=7" , MBC1 
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=7" , MBC 3 group-title="mbc"
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=7" , MBC 3 
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc4.jpg?v=7" , MBC 4 group-title="mbc"
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc4.jpg?v=7" , MBC 4 
 https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc5.jpg?v=7" , MBC 5 group-title="mbc"
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc5.jpg?v=7" , MBC 5
 https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="https://media0078.elcinema.com/tvguide/1259_1.png" , MBC Bollyood group-title="mbc"
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="https://media0078.elcinema.com/tvguide/1259_1.png" , MBC Bollyood 
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
 
