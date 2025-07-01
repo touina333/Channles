@@ -8,18 +8,42 @@ https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae763
 https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="" tvg-logo="https://media0078.elcinema.com/tvguide/1259_1.png" ,MBC Bollyood 
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg?v=7" group-title="Movies",MBC+ Drama (1080p)
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg?v=7" group-title="Movies",MBC+ Drama 
 https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg?v=7" group-title="General",MBC Masr USA (1080p)
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg?v=7" group-title="General",MBC Masr 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg?v=7" group-title="Series",MBC Masr Drama (1080p)
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr_drama.jpg?v=7" group-title="Series",MBC Masr Drama 
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=7" group-title="General",MBC Masr 2 (1080p)
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=7" group-title="General",MBC Masr 2 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=7" group-title="General",MBC Iraq (1080p)
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=7" group-title="General",MBC Iraq 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1 tvg-id="WelatTV.sy@HD" tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4" group-title="News",Welat TV (1080i)
 http://stream.welattv.net:1935/welat/tv/.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/2m_ma_tv.jpg?v=7" group-title="General",2M
+https://fl1002.bozztv.com/ga-2mmaroc-hd/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
