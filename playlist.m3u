@@ -80,7 +80,7 @@ https://live.alittihad.tv:444/ittihad/index.m3u8
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/almamlakatv.jpg?v=7",Al Mamlaka TV
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-logo="https://i.imgur.com/j1Xmygq.jpg?v=7",Ajyal TV
+#EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/3a/Ajyallogo.png",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aqsa_tv.jpg?v=7",Al Aqsa Channel
 https://64c53df624b1b.servers.dvcloud.tv/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
@@ -106,7 +106,7 @@ https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dijlah.jpg?v=7" ,Dijlah (Backup)
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-language="Kurdish" tvg-logo="https://i.imgur.com/XFbwbi4.png",Kurdsat
+#EXTINF:-1 tvg-language="Kurdish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/DengiKurdsat.png/250px-DengiKurdsat.png",Kurdsat
 https://iko-live.akamaized.net/KurdsatTV/master.m3u8
 
 
