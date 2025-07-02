@@ -28,7 +28,7 @@ https://fl1002.bozztv.com/ga-2mmaroc-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alaoula.jpg?v=7" group-title="General",al aoula
 https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/glarb.php?id=arrabia" group-title="General",arrabia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_tv_med_arrabia_nouveau.png" group-title="General",arrabia
 https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/tamazight.jpg?v=7" group-title="General",tamazight
 https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
