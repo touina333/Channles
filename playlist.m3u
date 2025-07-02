@@ -40,7 +40,8 @@ https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/assadissa.jpg?v=7" group-title="General",assadissa
 https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/250px-TRT_Arabi_logo.svg.png" group-title="News",TRT Arabi (1080p)
+http://185.234.111.229:8000/play/a002
 
 
 
