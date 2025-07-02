@@ -25,6 +25,7 @@ https://fl1002.bozztv.com/ga-2mmaroc-hd/index.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alaoula.jpg?v=7" group-title="General",al aoula
 https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/glarb.php?id=arrabia" group-title="General",arrabia
@@ -42,6 +43,18 @@ https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadiss
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/250px-TRT_Arabi_logo.svg.png" ,TRT Arabi 
 http://185.234.111.229:8000/play/a002
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AL24_News_Logo.svg/250px-AL24_News_Logo.svg.png" group-title="News",AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/langfr-250px-Al-Arabiya_new_logo.svg.png" group-title="Religious",MTA3 Al-Arabia
+https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/250px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/250px-CGTN.png" group-title="News",CGTN Arabic 
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/250px-ON_logo.png" group-title="News",On E 
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ON_Drama.png/330px-ON_Drama.png" group-title="Series",On Drama
+https://fl1002.bozztv.com/ga-ondrama/index.m3u8
 
 
 
